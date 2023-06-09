@@ -23,7 +23,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: http-echo-app-service
+  name: http-echo-app-service-cu
 spec:
   selector:
     app: http-echo-app
